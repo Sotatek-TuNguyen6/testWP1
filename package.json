@@ -1,0 +1,21 @@
+{
+  "name": "toolview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "google-auth-library": "^9.10.0",
+    "googleapis": "^137.1.0",
+    "node-cron": "^3.0.3",
+    "puppeteer": "^22.9.0",
+    "socket.io": "^4.8.1"
+  }
+}
